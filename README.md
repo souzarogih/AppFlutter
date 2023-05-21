@@ -22,3 +22,5 @@ Configurar a depuração no smartphone
 https://www.youtube.com/watch?v=dgg2zPc5jqM
 
 Passo 2 - Para ativar o modo desenvolvedor Android, você deve clicar sete vezes na opção “Número da versão”, “Versão da MIUI” ou “Número de compilação” (dependendo do celular) até que a mensagem “agora você é um desenvolvedor" seja exibida. Dê um intervalo de no máximo um segundo entre um toque e outro.
+
+Executar: F5
