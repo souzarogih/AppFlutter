@@ -27,8 +27,9 @@ class _LoginPAgeState extends State<LoginPage> {
                 Container(
                   width: 200,
                   height: 200,
-                  child: Image.network(
-                      'https://static.wixstatic.com/media/0784b1_18c5cd77477745979c1555f37db576df~mv2.png/v1/fill/w_270,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/All_Logos_01.png'),
+                  child: Image.asset('assets/imagens/elogo.png'),
+                  // child: Image.network(
+                  // 'https://static.wixstatic.com/media/0784b1_18c5cd77477745979c1555f37db576df~mv2.png/v1/fill/w_270,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/All_Logos_01.png'),
                 ),
                 Container(height: 30),
                 TextField(
